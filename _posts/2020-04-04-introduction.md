@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skylar Chadwick
+title: Kirti
 ---
 
 Skylar Chadwick is a Content Strategist for Austin Capital Data in Austin, Texas with a background in Biotechnology and children’s development. 
